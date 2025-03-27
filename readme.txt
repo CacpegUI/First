@@ -1,0 +1,2 @@
+// PARA INICIAR EL SERVIDOR
+php -S localhost:8000
